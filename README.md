@@ -12,4 +12,4 @@ VIM
 VSCODE 
 --->
 
-good fucking luck with life. 
+good luck with life. 
